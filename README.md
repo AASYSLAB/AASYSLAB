@@ -1,6 +1,19 @@
-### 
+Hello All,
 
-#Here is what I currently tinkering with in my home lab.
+Here is what I am currently tinkering with in my home learning lab.
+
+Cybersecurity:
+- VMware Fusion with Kali Linux running on a MacBook Air 
+- Python v3.10.4 along with Visual Studio Code
+- PowerShell v7.3.1
+
+Cloud:
+- Microsoft Azure
+- Google Cloud
+- AWS
+
+
+
 
 
 
