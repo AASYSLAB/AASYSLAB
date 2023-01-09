@@ -4,12 +4,20 @@ Here is what I am currently tinkering with in my home learning lab.
 
 Cybersecurity:
 - VMware Fusion with Kali Linux running on a MacBook Air 
-- Python v3.10.4 along with Visual Studio Code
+- Python v3.10.4 along with Visual Studio Code 
 
 Cloud:
 - Microsoft Azure
+- AWS
 - Google Cloud
 
+Resources:
+- A Cloud Guru
+- CBT Nuggets
+- Professor Messer
+
+
+Open to network and collaborate with local community Cybersecurity groups.
 
 
 
