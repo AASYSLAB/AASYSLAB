@@ -8,8 +8,8 @@ Cybersecurity:
 
 Cloud:
 - Microsoft Azure
-- AWS
 - Google Cloud
+- AWS
 
 Current Resources:
 - A Cloud Guru
