@@ -1,6 +1,6 @@
 Hello All,
 
-Here is what I am currently tinkering with in my home learning lab.
+Here is a quick glimpse of what I am currently tinkering with in my home learning lab.
 
 Cybersecurity:
 - VMware Fusion with Kali Linux running on a MacBook Air 
@@ -11,13 +11,13 @@ Cloud:
 - AWS
 - Google Cloud
 
-Resources:
+Current Resources:
 - A Cloud Guru
 - CBT Nuggets
 - Professor Messer
 
 
-Open to network and collaborate with local community Cybersecurity groups.
+Open to network and collaborate on special projects.
 
 
 
