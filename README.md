@@ -2,7 +2,7 @@ Hello All,
 
 Here is a quick glimpse of what I am currently tinkering with in my home learning lab.
 
-InfoSec:
+Cybersecurity:
 - VMware Fusion with Kali Linux running on a MacBook Air 
 - Python v3.10.4 along with Visual Studio Code 
 
@@ -15,11 +15,6 @@ Current Resources:
 - A Cloud Guru
 - CBT Nuggets
 - Professor Messer
-
-
-Open to network and collaborate.
-
-
 
 
 
