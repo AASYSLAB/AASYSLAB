@@ -17,7 +17,9 @@ Current Resources:
 - Professor Messer
 
 
-Open to network and collaborate on special projects.
+Open to network and collaborate.
+
+Projects coming soon.
 
 
 
