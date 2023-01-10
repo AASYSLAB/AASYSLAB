@@ -19,7 +19,7 @@ Current Resources:
 
 Open to network and collaborate.
 
-Projects coming soon.
+
 
 
 
